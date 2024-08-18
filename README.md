@@ -1,10 +1,11 @@
-This Repository is for solving BaekJoon Problems using Python. This Repository is by Suchan Lee, Department of Computer Software Engineering, Kumoh National Institute of Technology (kit), South KOREA.
+This Repository is for solving BaekJoon Problems using Python. This Repository is by Suchan Lee, Department of Computer
+Software Engineering, Kumoh National Institute of Technology (kit), South KOREA.
 
-"SOLUTIONS_code" is the code about real code what I solved BOJ problems by Python.  
+"SOLUTIONS_code" is the code about real code what I solved BOJ problems by Python.
 
-https://www.acmicpc.net/  
+https://www.acmicpc.net/
 
-E-mail : lsc1814@naver.com  
+E-mail : lsc1814@naver.com
 
 **index**  
 p_1003 : 피보나치 함수  
@@ -13,6 +14,7 @@ p_1074 : Z
 p_1260 : DFS와 BFS  
 p_1463 : 1로 만들기  
 p_1541 : 잃어버린 괄호  
+p_1598 : 꼬리를 무는 숫자 나열  
 p_1606 : 바이러스  
 p_1620 : 나는야 포켓몬 마스터 이다솜  
 p_1874 : 스택 수열  
