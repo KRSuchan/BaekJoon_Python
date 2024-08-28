@@ -1,7 +1,7 @@
 # p_3943 : 헤일스톤 수열
 import sys
 
-input = sys.stdin.readline()
+input = sys.stdin.readline
 T = int(input())
 for _ in range(T):
     n = int(input())
